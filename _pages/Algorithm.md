@@ -1,6 +1,6 @@
 ---
 layout : archive 
-permalink : /_pages/Algorithm/
+permalink : /Algorithm/
 title : "Algorithm post by tags"
 author_profile: true
 header:
